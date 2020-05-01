@@ -10,8 +10,8 @@ import androidx.core.app.ActivityCompat;
 import com.google.android.gms.tasks.OnSuccessListener;
 
 public class Locations extends Activity {
-    public static double lat;
-    public static double lon;
+    private static double lat;
+    private static double lon;
     MainActivity mainActivity = new MainActivity();
 
     public void setLocation() {
@@ -34,10 +34,10 @@ public class Locations extends Activity {
     }
 
 
-    private double get_lat() {
+    public double get_lat() {
         return (lat);
     }
-    private double get_lon() {
+    public double get_lon() {
         return (lon);
     }
 }
