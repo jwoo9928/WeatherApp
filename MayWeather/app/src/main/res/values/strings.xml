@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MayWeather</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="temp" />
+    <string name="time" />
+    <string name="time_temp" />
+    <string name="day_weather" />
+    <string name="result" />
+    <string name="dust_info" />
+    <string name="high_low" />
+    <string name="weather_info" />
+    <string name="time_1" />
+    <string name="time_2" />
+    <string name="time_3" />
+    <string name="time_4" />
+    <string name="time_5" />
+    <string name="day_temp" />
+    <string name="day_1" />
+    <string name="day1_temp" />
+    <string name="day_2" />
+    <string name="day2_temp" />
+    <string name="day_3" />
+    <string name="day3_temp" />
+    <string name="day_4" />
+    <string name="day4_temp" />
+    <string name="day_5" />
+    <string name="day5_temp" />
+</resources>

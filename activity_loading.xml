@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="18dp"
+    android:paddingRight="18dp"
+    android:paddingTop="@dimen/widget_margin"
+    android:paddingBottom="@dimen/widget_margin"
+    android:background="@drawable/gradation">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="100dp"
+        android:src="@drawable/clear_sky"
+        android:contentDescription="@string/todo"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/appname"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="mayweather"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/made"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_margin="90dp"
+        android:text="made by Cyu, Japark" />
+</LinearLayout>
