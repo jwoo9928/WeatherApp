@@ -1,6 +1,11 @@
 # program42
 #날씨 확인 어플리케이션#
+
 <중요코드는 program42/MayWeather/app/src/main/java/com/example/ 에 있습니다!!>
+
+-개발프로그램 : Android Studio
+
+-개발 언어 : java
 
 #주요기능#
 
