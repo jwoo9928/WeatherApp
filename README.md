@@ -10,6 +10,9 @@
 
 2 . 자외선 지수에 따른 썬크림 추천
 
+![suncream](./MayWeather/app/src/main/res/drawable/suncream.png)
+![suncreamx](./MayWeather/app/src/main/res/drawable/suncreamx.png)
+
 3 . 기본적인 온도 및 강수량 체크
 
 4 . 7일 간 날씨 예보
