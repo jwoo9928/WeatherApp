@@ -4,7 +4,7 @@
 #주요기능#
 
 ##1 . 미세먼지 농도에 따른 마스크 추천
-![nomask](./MayWeather/app/src/main/res/drawable/nomask.png)
+![nomask](./MayWeather/app/src/main/res/drawable/nomask.png){: width="100" height="100"}
 
 2 . 자외선 지수에 따른 썬크림 추천
 
