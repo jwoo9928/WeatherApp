@@ -15,5 +15,7 @@
 
 3 . 기본적인 온도 및 강수량 체크
 
-4 . 7일 간 날씨 예보
+4 . 7일 간 날씨 예보\
+
+![ezgif.com-video-to-gif](./ezgif.com-video-to-gif.gif)
 
