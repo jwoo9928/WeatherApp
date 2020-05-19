@@ -18,6 +18,8 @@
 
 4 . 7일 간 날씨 예보\
 
+![ezgif.com-video-to-gif](./ezgif.com-video-to-gif.gif)
+
 ex) 날씨 분류 코드
 ```java
 //현재 날씨 이미지 설정
@@ -112,6 +114,4 @@ ex) 날씨 분류 코드
         }
     }
     ```
-
-![ezgif.com-video-to-gif](./ezgif.com-video-to-gif.gif)
 
